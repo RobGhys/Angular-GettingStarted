@@ -11,8 +11,7 @@ import { SharedModule } from '../shared/shared.module';
   declarations: [
     ProductListComponent,
     ProductDetailComponent,
-    ConvertToSpacesPipe,
-    StarComponent
+    ConvertToSpacesPipe
   ],
   imports: [
     RouterModule.forChild([
